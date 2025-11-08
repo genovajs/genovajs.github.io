@@ -26,6 +26,5 @@ document.addEventListener('DOMContentLoaded', () => {
     card.appendChild(img);
     recipesGrid.appendChild(card);
   }
-  
   console.log(`Generated ${NUMBER_OF_IMAGES} recipe cards`);
 });
